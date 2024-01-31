@@ -1,0 +1,9 @@
+openml==0.14.1
+scikit-learn==1.0.2
+pymfe~=0.4.2
+pandas~=1.4.0
+numpy~=1.22.2
+ConfigSpace~=0.5.0
+scipy~=1.8.0
+smac~=1.4.0
+func_timeout
